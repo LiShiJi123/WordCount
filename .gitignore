@@ -1,0 +1,4 @@
+# Project exclude paths
+/JAVA/target/
+/MapReduce/target/
+/spark-core/target/
